@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+.TitleBar {
+  margin: 5px;
+  border: 1px solid black;
+}
+
+.TitleBar__header {
+  width: 100%;
+  background-color: cyan;
+}
+
+.TitleBar__title {
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+}
+
